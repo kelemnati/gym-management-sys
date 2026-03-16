@@ -243,26 +243,6 @@ flutter build ios --release
 flutter build web --release
 ```
 
-## 📱 Screenshots
-
-### Home Dashboard
-
-Beautiful grid layout with feature cards and quick access to all modules.
-
-### QR Check-In
-
-Advanced QR scanning using the **mobile_scanner** plugin with payment verification and real-time feedback.
-
-### Member Management
-
-Complete member profiles with search, filtering, and detailed information.
-
-### Reports Dashboard
-
-Comprehensive analytics with charts and key performance indicators.
-
-## 🔧 Configuration
-
 ### Environment Setup
 
 The app uses mock data by default. To connect to a real backend:
